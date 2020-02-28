@@ -1,15 +1,30 @@
-# Maratona Dev 3.0
+<h4 align="center">
+  🚨 Maratona Dev 3.0
+</h4>
 
-## Informações do sistema
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## 💻 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [HTML5]
+- [CSS3]
+- [JavaSricpt]
+- [PostgreSQL](https://www.postgresql.org/)
+
+## 📝 Projeto
 
 Sistema foi desenvolvido para realizar cadastros de doadores de sangue
 
-## Tecnologias ultilizadas do sistema 
 
-- [x] Node.Js (Back-end)
-- [x] HTML, CSS, JavaScript (Front-end)
-- [x] PostgreSQL (Banco de dados)
+## 🎥 Referências
 
-## References
-
-- [x] Maratona Dev 3.0
+- Maratona Dev 3.0 
