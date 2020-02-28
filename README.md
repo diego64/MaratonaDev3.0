@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Referências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -15,15 +15,14 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [HTML5]
-- [CSS3]
-- [JavaSricpt]
+- HTML5
+- CSS3
+- JavaSricpt
 - [PostgreSQL](https://www.postgresql.org/)
 
 ## 📝 Projeto
 
 Sistema foi desenvolvido para realizar cadastros de doadores de sangue
-
 
 ## 🎥 Referências
 
